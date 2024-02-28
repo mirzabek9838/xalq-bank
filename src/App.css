@@ -1,0 +1,18 @@
+.app {
+  max-width: 1000px;
+  height: 100vh;
+  background: linear-gradient(45deg, rgb(152, 207, 195) 32%, rgb(47, 138, 137) 18%);
+  margin: 0 auto;
+  position: relative;
+  margin: 0 auto;
+}
+.app-item {
+  
+  width: 375px;
+  height: 735px;
+  background-color:#F5F6F7;
+  position: relative;
+  top: 100px;
+  left: 320px;
+  border: 2px solid #fff;
+}
