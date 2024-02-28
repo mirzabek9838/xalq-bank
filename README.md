@@ -1,0 +1,2 @@
+# xalq-bank
+Xalq-bank
